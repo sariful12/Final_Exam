@@ -1,0 +1,208 @@
+.bg_image{
+    background-image: url(media/banner.png);
+    width: 100%;
+    height: 952px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.logo {
+    margin-top: 20px;
+}
+ul.navbar-nav.ms-auto {
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+ul li a:hover{
+   color: #3f68d4 !important;
+}
+article {
+    margin-top: 300px;
+    color: white;
+}
+span{
+    color:#3f68d4;
+}
+/* this is services css part */
+.bg_color{
+    background-color:#F0F0F0;
+    min-height:608px;
+    background-attachment: fixed;
+}
+.title_text{
+    padding-top: 104px;
+    font-size: 16pt;
+}
+.computericon{
+    float: left;
+    margin-right: 30px;
+    margin-top: 9px;
+}
+.details{
+    text-align: justify;
+    margin-left: 66px;
+    color: #5e6d77;
+}
+.padding {
+    margin: 0 47px;
+}
+/* this is welcome css */
+.bg_welcome{
+    background-color: #F5F5F5;
+    width: 100%;
+    height: auto;
+}
+.color_text{
+    color: #5e6d77;
+    padding-top: 106px;
+}
+.ctext{
+    color: #5e6d77;
+}
+.sizing{
+    margin-top: 108px;  
+}
+.navbar-nav.ms-auto {
+    font-weight: 500;
+}
+
+.hoverimage{
+    min-width: 377px;
+    min-height: 254px;
+}
+.hoverimage:hover{
+    opacity: .9;
+}
+/* this is timer css */
+.bg_timer{
+    background-color: #E6ECFD;
+    width: 100%;
+    min-height: 261px;
+}
+span#sleep {
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+.auto {
+    padding-top: 85px;
+}
+/* this is skill css */
+.bg_skill{
+    background-color: #F5F5F5;
+    width: 100%;
+   min-height: 440px;
+}
+.content p{
+    font-size: 12pt;
+}
+/* this is owner css */
+.bg_owner{
+    background-image: url(media/banner2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height:380px;
+}
+.full_text{
+    padding-top:126px;
+}
+.full_text p{
+    font-size: 15pt;
+}
+/* this is blog css */
+.bg_blog{
+    background-color: #F5F5F5;
+    width: 100%;
+    min-height: 708px;
+}
+/* this is footer */
+.bg_footer{
+    background-color: #03050C;
+    width: 100%;
+    min-height: 560px;
+}
+.justify{
+    text-align: justify;
+}
+#follow{
+    font-size: 17pt;
+    color: white;
+}
+.line{
+    border: 2px solid white;
+    background-color: white;
+    outline: none;
+}
+i.fa-brands.fa-facebook-f {
+    color: #95E1D3;
+    padding: 0 10px;
+    font-size:20px;
+}
+i.fa-brands.fa-twitter {
+    color: #95E1D3;
+    padding: 0 10px;
+    font-size:20px;
+}
+i.fa-brands.fa-instagram {
+    color: #95E1D3;
+    padding: 0 10px;
+    font-size:20px;
+}
+i.fa-brands.fa-pinterest-p {
+    color: #95E1D3;
+    padding: 0 10px;
+    font-size:20px;
+}
+i.fa-brands.fa-google-plus-g {
+    color: #95E1D3;
+    padding: 0 10px;
+    font-size:20px;
+}
+i.fa-brands.fa-youtube-square {
+    color: #95E1D3;
+    padding: 0 10px;
+    font-size:20px;
+}
+i.fa-regular.fa-globe{
+    color: #95E1D3;
+    padding: 0 10px;
+    font-size:20px;
+}
+i.fa-brands.fa-linkedin{
+    color: #95E1D3;
+    padding: 0 10px;
+    font-size:20px;
+}
+input.form-control.me-1 {
+    width: 250px;
+    margin-left: -22px;
+}
+.date_cahnge{
+    font-size: 17px;
+}
+.py{
+    margin-top: 20px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+/* buttonUp */
+#btnScrollToTop{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: red;
+    box-shadow: 0 0 10px rgba(0,0,0,0.25);
+    color: white;
+    border: none;
+    outline: none;
+}
+#btnScrollToTop:active{
+    background: #cc2333;
+}
